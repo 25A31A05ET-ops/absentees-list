@@ -1,0 +1,6 @@
+{
+  "name": "Absentees",
+  "description": "Offline absentee and attendance tracker with daily calendar and quick roll number selection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
